@@ -40,12 +40,9 @@ body {
     text-align      : center;
 }
 
-.card-photo__img {
-    width: 30vw;
-}
 
 .card-description {
-    width         : 68%;
+    width         : 82%;
     display       : flex;
     flex-direction: column;
     margin-top    : 60px;
@@ -59,7 +56,6 @@ body {
     font-size  : 48px;
     line-height: 56px;
     color      : #121212;
-    height     : 56px;
 }
 
 
@@ -209,6 +205,7 @@ body {
     background-color: #121212;
     padding         : 14px 10px;
     border-radius   : 11px;
+    margin-bottom   : 20px;
 }
 
 .form-btn:hover {
