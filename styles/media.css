@@ -129,12 +129,13 @@
         margin-top   : 16px;
         margin-bottom: 16px;
         flex-wrap    : wrap;
-        width        : 104%;
+        width        : 100%;
     }
 
-    .card-description__link {
+    .card-description__links-icon {
         height: 33px;
     }
+
 
     .card-description__stack-title {
         font-size    : 20px;
